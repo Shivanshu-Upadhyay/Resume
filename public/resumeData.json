@@ -46,29 +46,29 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"CCSU",
+        "degree":"Bachelor of Computer Applications",
+        "graduated":"April 2022",
+        "description":"I completed my BCA from Ipem college in 2022, Here I learned may things that help me in present"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"R.H.S.I College",
+        "degree":"12th",
+        "graduated":"March 2019",
+        "description":"I completed my 12th from R.H.S.I College in 2019, Here I learned may things that help me in present"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
+        "company":"Phiysiomatica",
+        "title":"Frontend Devloper",
+        "years":"May 2021 -  Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
+        "company":"Futureminds",
+        "title":"Frontend Devloper",
+        "years":"January 2021 - April",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
