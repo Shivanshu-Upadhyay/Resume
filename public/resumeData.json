@@ -63,44 +63,53 @@
         "company":"Phiysiomatica",
         "title":"Frontend Devloper",
         "years":"May 2021 -  Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"The technology use in physiomatica is Material UI, React js, Node js, Express Js, and  MangoDB,. I worked frontend and backend both technology.... In the period of my Internship."
       },
       {
         "company":"Futureminds",
         "title":"Frontend Devloper",
         "years":"January 2021 - April",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"The technology use in Futureminds is HTML, CSS, JavaScript,Jquery,Bootstrap, I work frontend  technology.... In the period of my Internship."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"HTML",
+        "level":"80%"
       },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
+      
       {
         "name":"CSS",
         "level":"90%"
       },
+      
       {
-        "name":"PHP",
+        "name":"JavaScript",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Bootstrap",
+        "level":"83%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"NodeJs",
+        "level":"47%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"53%"
+      },
+      
+      
+      {
+        "name":"ExpressJs",
+        "level":"52%"
+      },
+      {
+        "name":"MangoDB",
+        "level":"61%"
       }
+      
     ]
   },
   "portfolio":{
