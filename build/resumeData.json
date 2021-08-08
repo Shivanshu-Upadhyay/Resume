@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Hey I m Shivanshu",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume page ",
+    "image":"profilepic.jpg",
+    "bio":"I design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. I may also create site content that requires technical features.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shivanshu6525@gmail.com",
+    "phone": "7880811002",
+    "github":"https://github.com/Shivanshu-Upadhyay/Resume.git",
+    "project":"https://physiomaticaproject2.netlify.app/",
+    "address":{
+      "city":" From Delhi India"
+    },
+    "website": "http://www.timbakerdev",
+    "resumedownload":"http://timbakerdev",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/shivanshu.upadhyay.7921",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shivanshu-upadhyay-317204201",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shivanshu_upadhyay/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Shivanshu-Upadhyay/Resume.git",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"CCSU",
+        "degree":"Bachelor of Computer Applications",
+        "graduated":"April 2022",
+        "description":"I completed my BCA from Ipem college in 2022, Here I learned may things that help me in present"
+      },
+      {
+        "school":"R.H.S.I College",
+        "degree":"12th",
+        "graduated":"March 2019",
+        "description":"I completed my 12th from R.H.S.I College in 2019, Here I learned may things that help me in present"
+      }
+    ],
+    "work":[
+      {
+        "company":"Phiysiomatica",
+        "title":"Frontend Devloper",
+        "years":"May 2021 -  Present",
+        "description":"The technology use in physiomatica is Material UI, React js, Node js, Express Js, and  MangoDB,. I worked frontend and backend both technology.... In the period of my Internship."
+      },
+      {
+        "company":"Futureminds",
+        "title":"Frontend Devloper",
+        "years":"January 2021 - April",
+        "description":"The technology use in Futureminds is HTML, CSS, JavaScript,Jquery,Bootstrap, I work frontend  technology.... In the period of my Internship."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"83%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"47%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"52%"
+      },
+      
+      
+      {
+        "name":"ExpressJs",
+        "level":"52%"
+      },
+      {
+        "name":"MangoDB",
+        "level":"61%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
