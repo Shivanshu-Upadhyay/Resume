@@ -7,17 +7,17 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "shivanshu6525@gmail.com",
     "phone": "7880811002",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/Shivanshu-Upadhyay/Resume.git",
     "project":"https://physiomaticaproject2.netlify.app/",
     "address":{
       "city":" From Delhi India"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.timbakerdev",
+    "resumedownload":"http://timbakerdev",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Shivanshu-Upadhyay/Resume.git",
         "className":"fa fa-facebook"
       },
       {
@@ -37,7 +37,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/Shivanshu-Upadhyay/Resume.git",
         "className":"fa fa-github"
       }
     ]
