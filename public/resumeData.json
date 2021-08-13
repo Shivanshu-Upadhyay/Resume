@@ -13,7 +13,7 @@
       "city":" From Delhi India"
     },
     "website": "http://www.timbakerdev",
-    "resumedownload":"http://timbakerdev",
+    "resumedownload":"https://we.tl/t-pjmmzOo4R3",
     "social":[
       {
         "name":"facebook",
@@ -43,7 +43,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My skill",
     "education":[
       {
         "school":"CCSU",
@@ -137,13 +137,8 @@
         "category":"A React based resume website template",
         "image":"04.png",
         "url":"https://physiomatic.netlify.app/clinictoday"
-      },
-      {
-        "title":"Soon",
-        "category":"A React based resume website template",
-        "image":"04.png",
-        "url":"https://physiomatic.netlify.app/clinictoday"
       }
+      
       
       
       
