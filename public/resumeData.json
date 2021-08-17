@@ -60,10 +60,10 @@
     ],
     "work":[
       {
-        "company":"Phiysiomatica",
+        "company":"Physiomatica",
         "title":"Frontend Devloper",
         "years":"May 2021 -  Present",
-        "description":"The technology use in physiomatica is Material UI, React js, Node js, Express Js, and  MangoDB,. I worked frontend and backend both technology.... In the period of my Internship."
+        "description":"The technology use in physiomatica is Material UI, React js, Node js, Express Js, and  MongoDB,. I worked frontend and backend both technology.... In the period of my Internship."
       },
       {
         "company":"Futureminds",
@@ -106,7 +106,7 @@
         "level":"52%"
       },
       {
-        "name":"MangoDB",
+        "name":"MongoDB",
         "level":"61%"
       }
       
