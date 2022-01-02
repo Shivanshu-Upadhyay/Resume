@@ -7,7 +7,7 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "shivanshu6525@gmail.com",
     "phone": "7880811002",
-    "github":"https://github.com/Shivanshu-Upadhyay/Resume.git",
+    "github":"https://github.com/Shivanshu-Upadhyay",
     "project":"https://physiomaticaproject2.netlify.app/",
     "address":{
       "city":" From Delhi India"
@@ -17,7 +17,7 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/shivanshu.upadhyay.7921",
+        "url":"https://www.facebook.com",
         "className":"fa fa-facebook"
       },
       {
@@ -136,7 +136,7 @@
         "title":"React Dashboard",
         "category":"A React based resume website template",
         "image":"04.png",
-        "url":"https://physiomatic.netlify.app/clinictoday"
+        "url":"https://physiomatica.netlify.app/clinictoday"
       }
       
       
