@@ -121,17 +121,24 @@
         "url":"https://shivanshuresume.netlify.app/"
       },
       {
-        "title":"My Second Project",
+        "title":"React-Website",
+        "category":"My Project",
+        "image":"05.png",
+        "url":"https://minor-college1.web.app/"
+      },
+      {
+        "title":"Website",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.png",
         "url":"https://physiomaticaproject2.netlify.app/"
       },
       {
-        "title":"My first Project",
+        "title":"HTML CSS JS Website",
         "category":"My first Project",
         "image":"03.png",
         "url":"https://shivanshuproject1.netlify.app/"
       },
+      
       {
         "title":"React Dashboard",
         "category":"A React based resume website template",
