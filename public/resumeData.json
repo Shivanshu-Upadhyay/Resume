@@ -4,7 +4,7 @@
     "description":"I am a web development engineer and I use ReactJs to develop pages. This project is a resume page ",
     "image":"profilepic.jpg",
     "bio":"I design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. I may also create site content that requires technical features.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Work in Progress... Soon Here Will Be a Contact Form",
     "email": "shivanshu6525@gmail.com",
     "phone": "7880811002",
     "github":"https://github.com/Shivanshu-Upadhyay",
@@ -13,7 +13,7 @@
       "city":" From Delhi India"
     },
     "website": "https://shivanshuresume.netlify.app/",
-    "resumedownload":"https://we.tl/t-kYlNeWxpSM",
+    "resumedownload":"shiva.pdf",
     "social":[
       {
         "name":"facebook",
@@ -37,7 +37,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/Shivanshu-Upadhyay/Resume.git",
+        "url":"https://github.com/Shivanshu-Upadhyay",
         "className":"fa fa-github"
       }
     ]
@@ -108,6 +108,10 @@
       {
         "name":"MongoDB",
         "level":"61%"
+      },
+      {
+        "name":"React-Native",
+        "level":"69%"
       }
       
     ]
